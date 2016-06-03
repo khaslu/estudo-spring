@@ -19,7 +19,7 @@ Segue lista de tarefas:
 - [ ]  Messaging with RabbitMQ
 - [ ]  Accessing Twitter Data
 - [x]  Accessing Facebook Data
-- [ ]  Accessing Data with Neo4j
+- [x]  Accessing Data with Neo4j
 - [ ]  Validating Form Input
 - [ ]  Building a RESTful Web Service with Spring Boot Actuator
 - [ ]  Messaging with JMS
